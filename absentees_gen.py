@@ -4,47 +4,7 @@ import re
 import datetime 
 #importing DateTime modue
 
-classList = ["AAKANKSHA", #classlist containing everyone's name to check with the code
-"ABHINAV", 
-"ADITHI", 
-"AGASTYA",
-"AKSHAY", 
-"ARTHAV", 
-"ARYAMAN", 
-"AVYUKTH",
-"BHARADWAJ", 
-"BHASHITHA", 
-"BHAVY", 
-"CHARVITH",
-"DILISHA", 
-"DRITAN", 
-"GEETHIKA", 
-"GOUTHAM",
-"KAVIN", 
-"MANASVINI", 
-"MIRZA", 
-"WASI", 
-"PRANAMYA", 
-"RAJASHEKAR", 
-"RISHMITHA", 
-"RITIESHWAR",
-"RUGVEDA",
-"RUTHVIK", 
-"SHAURYA",
-"SATWIK", 
-"SATYANARAYANA", 
-"SHAANVI", 
-"SHAHID",
-"SHRADDHA", 
-"SAMIUDDIN", 
-"YAMEEN", 
-"VANSH",
-"VARSHITH", 
-"VEDANTH", 
-"ABHIRAM",
-"VIGNAN", 
-"VIKRAMADITYA", 
-"ZUBIYA"]
+classList = []
 
 meetPath = "./Absentees_Gen/Absentees_inspect.txt"
 #file path (relative) for the G Meet code 
